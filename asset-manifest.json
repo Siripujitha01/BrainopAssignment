@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BrainopAssignment/static/css/main.84487ea8.css",
+    "main.js": "/BrainopAssignment/static/js/main.fbd16438.js",
+    "static/media/img1.jpg": "/BrainopAssignment/static/media/img1.ec193cc3090d98ea493f.jpg",
+    "index.html": "/BrainopAssignment/index.html",
+    "main.84487ea8.css.map": "/BrainopAssignment/static/css/main.84487ea8.css.map",
+    "main.fbd16438.js.map": "/BrainopAssignment/static/js/main.fbd16438.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.fbd16438.js"
+  ]
+}
